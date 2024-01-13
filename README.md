@@ -1,22 +1,8 @@
-# AutoIt - Tracking CTT
-```
-,---.             ,                ,-. ,---. ,---.
-  |               |   o           /      |     |  
-  |   ;-. ,-: ,-. | , . ;-. ,-:   |      |     |  
-  |   |   | | |   |<  | | | | |   \      |     |  
-  '   '   `-` `-' ' ` ' ' ' `-|    `-'   '     '  
-                            `-'                   
-```
-UDF simples para Tracking CTT em AutoIT
+### CTT Tracking AutoIt UDF
 
-<h2>Informação genérica
+``` Descontinuado, API não funcional ```
 
-```
-Linguagem .......: AutoIt
-Tipo ............: UDF
-Funções .........: 1
-Linhas ..........: 116
-```
+UDF para Tracking CTT em AutoIT
 
 ```
 ; #INDEX# ======================================================
